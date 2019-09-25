@@ -1,0 +1,2 @@
+Write a python “generate streams” application to feed data from a file into a stream. The application should set the timing such that one tuple from “Climate Data-Part2” and five tuple from “Fire Data-Part2” are sent into the stream every second. “DataType” column in the record can be used to distinguish between the streams.
+
